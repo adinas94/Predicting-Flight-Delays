@@ -37,3 +37,4 @@ Next, we looked a the XGBoost model, whose test recall score only improved sligh
 - While XGBoost increased our test recall score, it was only marginally, and the resulting model was overfit to our train data 
 - In future models, we should look to remove features that are not correlated with our target variable, as well as remove features that have low feature importances. Future work with more data cleaning could potentially lead us to stronger recall scores, without producing a model that is overfit 
 - FAA should allocate resources to improve the efficiencies of Late Aircraft Delay, Arrival Delay and Airline Delay, as these types of delays had the highest feature importances in our models 
+- The [link](https://adinasteinman.medium.com/guide-to-fitting-predicting-and-creating-functions-for-machine-learning-models-65adb8704185) here will bring you to my blog post that discusses the detailed steps I went through to conduct this process. Thank you for reading! 
